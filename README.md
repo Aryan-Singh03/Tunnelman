@@ -1,6 +1,6 @@
 TunnelMan video game created in C++.
 
-THe player has to dig through the dirts to collect a certain number of oil barrels pre round, while avoiding protesters, in order to complete each level. To interrupt player's mission, there will be protesters who will follow user and shout at him until user's health points drop zero (in which case player loses a life).
+The player has to dig through the dirts to collect a certain number of oil barrels pre round, while avoiding protesters, in order to complete each level. To interrupt player's mission, there will be protesters who will follow user and shout at him until user's health points drop zero (in which case player loses a life).
 
 Along his journey, the tunnelman can use items (golds, water guns, and sonar kits) to deeter protesters and help uncover oil barrel locations.
 
